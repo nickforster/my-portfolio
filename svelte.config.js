@@ -16,8 +16,6 @@ const config = {
   kit: {
     // Other configuration options...
     adapter: adapter({
-      // This sets the base path for your GitHub Pages repository
-      // Replace 'repository-name' with your actual repository name
       paths: 'my-portfolio',
     }),
   },
