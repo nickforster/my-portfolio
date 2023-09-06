@@ -1,3 +1,15 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+:root {
+    --primary-color: #2E3047;
+    --primary-accent-color: #27283e;
+    --secondary-color: #3BBA9C;
+    --text-color: #eaeaea;
+    background-color: var(--primary-color);
+}
+
+* {
+  cursor: url("$lib/images/cursor-polygon.svg") 4 4, pointer !important;
+}
