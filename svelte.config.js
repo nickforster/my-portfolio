@@ -18,7 +18,7 @@ const config = {
     adapter: adapter({
       // This sets the base path for your GitHub Pages repository
       // Replace 'repository-name' with your actual repository name
-      paths: 'my-repository',
+      paths: 'my-portfolio',
     }),
   },
 };
