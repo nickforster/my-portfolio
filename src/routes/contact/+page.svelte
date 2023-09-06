@@ -37,7 +37,8 @@
 
             <div class="w-full flex gap-4">
                 <button type="reset" id="reset" class="w-full bg-primary-accent-color p-2 text-secondary-color border-2 border-transparent outline-none border-b-secondary-color focus:border-secondary-color hover:border-secondary-color transition-all duration-300">Cancel</button>
-                <button type="submit" id="submit" class="w-full bg-primary-accent-color p-2 text-secondary-color border-2 border-transparent outline-none border-b-secondary-color focus:border-secondary-color hover:border-secondary-color transition-all duration-300">Send</button>
+                <!-- TODO send mail -->
+                <button type="submit" id="reset" class="w-full bg-primary-accent-color p-2 text-secondary-color border-2 border-transparent outline-none border-b-secondary-color focus:border-secondary-color hover:border-secondary-color transition-all duration-300">Send</button>
             </div>
         </div>
     </form>

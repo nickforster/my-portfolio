@@ -1,5 +1,5 @@
 <script>
-    import logo from "$lib/images/svelte-logo.svg";
+    import logo from "$lib/images/logo.png";
 
     let y = 0;
     let menuShowing = false;
@@ -72,7 +72,7 @@
                     <a href="/contact" on:click={hideMenu} class="hover:text-secondary-color transition-colors duration-300">Contact</a>
                 </li>
                 <li>
-                    <a href="/playground" on:click={hideMenu} class="hover:text-secondary-color transition-colors duration-300">Playground</a>
+                    <a href="/blog" on:click={hideMenu} class="hover:text-secondary-color transition-colors duration-300">Intern</a>
                 </li>
             </ul>
         </div>

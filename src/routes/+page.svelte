@@ -1,6 +1,5 @@
 <script>
     // @ts-nocheck
-    import Counter from "./Counter.svelte";
     import polygon from "$lib/images/polygon.svg";
     import polygon1 from "$lib/images/polygon.svg?raw";
     
